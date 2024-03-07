@@ -1,0 +1,1 @@
+alert("salut din domunentul script.js")
